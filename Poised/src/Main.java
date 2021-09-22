@@ -4,7 +4,6 @@ import java.sql.*;
  * The program is for an engineering company which would create construction projects and thus need a management system that will record all activities relating to the company.
  * Therefore the program allows the user to add new projects, edit existing projects whilst also recording the details of those assigned to each project.
  * The details of the customer, structural engineer, project manager, architect and the project itself will be captured into a database.
- * <p>
  * @author Lwandiso
  * @version 1.2
  * @since 2021-08-15
